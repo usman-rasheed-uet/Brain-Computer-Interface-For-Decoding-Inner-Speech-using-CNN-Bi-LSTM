@@ -1,1 +1,1 @@
-# Brain-Computer-Interface-For-Decoding-Inner-Speech-using-CNN-Bi-LSTM
+I can't public my FYP data however could be share personally
